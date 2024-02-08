@@ -1,4 +1,4 @@
-import { ALERT_TYPE, SCROLL_TO } from '@/plugins/dictionary';
+import { ALERT_TYPE, SCROLL_TO } from '../plugins/dictionary';
 
 // TODO must to be updated
 export default (app) => {

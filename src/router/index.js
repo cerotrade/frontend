@@ -2,8 +2,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import { useStorage } from "vue3-storage-secure";
 import { inject, nextTick } from 'vue'
-import { APP_NAMES } from '@/plugins/dictionary';
-import { ICP_PROVIDE_COLLECTION, canisterImpl } from '@/services/icp-provider';
+import { APP_NAMES } from '../plugins/dictionary';
+import { ICP_PROVIDE_COLLECTION, canisterImpl } from '../services/icp-provider';
 
 // route imports
 import DefaultLayout from '@/layouts/default-layout.vue'

@@ -1,8 +1,8 @@
 import axios from "axios"
-import store from "@/store"
+import store from "../store"
 import { useStorage } from "vue3-storage-secure"
 import { useTheme } from "vuetify/lib/framework.mjs"
-import { canisterImpl } from '@/services/icp-provider';
+import { canisterImpl } from '../services/icp-provider';
 
 export default {
   // ? custom defines

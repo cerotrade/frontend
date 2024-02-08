@@ -37,3 +37,4 @@ explorations
 *.cpuprofile
 .vscode/
 .dfx
+.vercel

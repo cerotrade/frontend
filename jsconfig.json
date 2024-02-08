@@ -8,7 +8,7 @@
     "esModuleInterop": true,
     "paths": {
       "@/*": [
-        "frontend/*"
+        "src/*"
       ],
       "@canister": [
         ".dfx/local/canisters/*"

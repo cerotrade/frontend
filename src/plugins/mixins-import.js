@@ -1,4 +1,4 @@
-import computeds from "@/mixins/variables"
+import computeds from "../mixins/variables"
 
 export default (app) => {
   // Make sure to pick a unique name for the flag

@@ -1,4 +1,4 @@
-import store from '@/store'
+import store from '../store'
 
 /// Useful to set intersection threshold
 export function buildThresholdList() {
